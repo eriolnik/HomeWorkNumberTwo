@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Viktorovich/CLionProjects/CALCULATOR/HomeWorkNumberTwo/main.cpp
+iostream
+-
+string
+-
+fstream
+-
+
